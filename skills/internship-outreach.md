@@ -38,7 +38,7 @@ I want to intern at [COMPANY_NAME] because [INSERT reason - company].
 If you give me a shot, I will go all in on my abilities to contribute to the company.
 
 Proof:
-- Video analysis project and automated temperature alert for Bearcat Motorsports FSAE Formula 1 Electric Vehicle Student Team.
+- [Video analysis project](https://github.com/nyle06dn/VideoAnalysis) and automated temperature alert for Bearcat Motorsports FSAE Formula 1 Electric Vehicle Student Team.
 - I am a Vice President for Vietnamese Student Associates. We hosted 9 events in 1 year. I worked as a Math Tutor and Lab Assistant simultaneously that year.
 - I am working at Starbucks to learn customer service.
 
@@ -215,7 +215,7 @@ I want to intern at [COMPANY_NAME] because [INSERT reason - company].
 If you give me a shot, I will go all in on my abilities to contribute to the company.
 
 Proof:
-- Video analysis project and automated temperature alert for Bearcat Motorsports FSAE Formula 1 Electric Vehicle Student Team.
+- [Video analysis project](https://github.com/nyle06dn/VideoAnalysis) and automated temperature alert for Bearcat Motorsports FSAE Formula 1 Electric Vehicle Student Team.
 - I am a Vice President for Vietnamese Student Associates. We hosted 9 events in 1 year. I worked as a Math Tutor and Lab Assistant simultaneously that year.
 - I am working at Starbucks to learn customer service.
 
